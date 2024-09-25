@@ -1,0 +1,4 @@
+repository "KATHRYNA_TURI_ISYS2006@Kathryna_Turi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
